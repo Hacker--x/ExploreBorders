@@ -1,0 +1,35 @@
+Retrieved 2026-10-21:
+Subarea geometry: https://wowforevermap.com/subzones.json
+Zone metadata, map frames and zone perimeters:
+https://wowforevermap.com/_next/static/chunks/world-MqTemErK.js
+
+Retained subzones.json SHA256:
+2ed50b9ccce54242dda60cc2d2947f171cc2eaef1b4c87231af0160686fdc56d
+
+Source build not stated. This is third-party geometry, not an independently
+verified current-client extraction or a server discovery-trigger database.
+
+Original rounded world vertices are recovered to nearest 100/3-yard grid indices.
+All 812 subareas match their cell counts (125,685 cells); all 59 zone perimeters
+also match. Maximum coordinate adjustment is one third of a yard. There are
+1,014 subarea rings / 25,334 vertices and 192 perimeter rings / 11,167 vertices.
+Counts include rings for holes and disconnected components. Polygon filling uses
+even-odd parity; rendering draws all rings. Names and label positions are from
+the source. Labels are not recommended discovery waypoints.
+
+48 named maps have positive source UI IDs. 11 instance datasets use negative
+source placeholders: these are NOT client UI IDs. They are matched at runtime by
+the world-map ID returned by C_Map.GetWorldPosFromMapPos, using its live frame.
+World X increases north; world Y increases west. Overviews are not drawn.
+
+API references:
+https://github.com/Atraeau/WoW-Addons/blob/main/docs/api/Map-Instances-World/C_Map.md
+https://github.com/Gethe/wow-ui-source/blob/live/Interface/AddOns/Blizzard_MapCanvas/Blizzard_MapCanvas.lua
+
+Related format research:
+https://github.com/fitzforge/polestar/blob/next/tools/lib/nav/geom/adt.js
+https://github.com/wowdev/WoWDBDefs/blob/master/definitions/AreaTable.dbd
+https://github.com/wowdev/WoWDBDefs/blob/master/definitions/WMOAreaTable.dbd
+
+The implementation is original. No raw current-build ADT/WMO extraction was
+performed. Successful rendering is separate from trigger-accuracy validation.

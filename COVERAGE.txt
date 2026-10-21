@@ -1,0 +1,74 @@
+The Hall of Thanes: 0 subareas + zone perimeter; resolve at runtime using world map 3065
+Ruins of Lordaeron: 4 subareas + zone perimeter; resolve at runtime using world map 2999
+Excavation Site: Wetlands: 4 subareas + zone perimeter; resolve at runtime using world map 2998
+City of Dalaran: 0 subareas + zone perimeter; resolve at runtime using world map 2959
+Stratholme: 0 subareas + zone perimeter; resolve at runtime using world map 329
+Scholomance: 0 subareas + zone perimeter; resolve at runtime using world map 289
+Zul'Farrak: 0 subareas + zone perimeter; resolve at runtime using world map 209
+Scarlet Monastery: 0 subareas + zone perimeter; resolve at runtime using world map 189
+Razorfen Downs: 0 subareas + zone perimeter; resolve at runtime using world map 129
+Razorfen Kraul: 0 subareas + zone perimeter; resolve at runtime using world map 47
+Shadowfang Keep: 0 subareas + zone perimeter; resolve at runtime using world map 33
+Durotar: 22 subareas + zone perimeter; UI map 1411
+Mulgore: 21 subareas + zone perimeter; UI map 1412
+The Barrens: 34 subareas + zone perimeter; UI map 1413
+Alterac Mountains: 19 subareas + zone perimeter; UI map 1416
+Arathi Highlands: 18 subareas + zone perimeter; UI map 1417
+Badlands: 16 subareas + zone perimeter; UI map 1418
+Blasted Lands: 9 subareas + zone perimeter; UI map 1419
+Tirisfal Glades: 25 subareas + zone perimeter; UI map 1420
+Silverpine Forest: 21 subareas + zone perimeter; UI map 1421
+Western Plaguelands: 15 subareas + zone perimeter; UI map 1422
+Eastern Plaguelands: 26 subareas + zone perimeter; UI map 1423
+Hillsbrad Foothills: 13 subareas + zone perimeter; UI map 1424
+The Hinterlands: 20 subareas + zone perimeter; UI map 1425
+Dun Morogh: 22 subareas + zone perimeter; UI map 1426
+Searing Gorge: 9 subareas + zone perimeter; UI map 1427
+Burning Steppes: 12 subareas + zone perimeter; UI map 1428
+Elwynn Forest: 21 subareas + zone perimeter; UI map 1429
+Deadwind Pass: 7 subareas + zone perimeter; UI map 1430
+Duskwood: 15 subareas + zone perimeter; UI map 1431
+Loch Modan: 14 subareas + zone perimeter; UI map 1432
+Redridge Mountains: 15 subareas + zone perimeter; UI map 1433
+Stranglethorn Vale: 37 subareas + zone perimeter; UI map 1434
+Swamp of Sorrows: 12 subareas + zone perimeter; UI map 1435
+Westfall: 16 subareas + zone perimeter; UI map 1436
+Wetlands: 24 subareas + zone perimeter; UI map 1437
+Teldrassil: 13 subareas + zone perimeter; UI map 1438
+Darkshore: 16 subareas + zone perimeter; UI map 1439
+Ashenvale: 39 subareas + zone perimeter; UI map 1440
+Thousand Needles: 16 subareas + zone perimeter; UI map 1441
+Stonetalon Mountains: 16 subareas + zone perimeter; UI map 1442
+Desolace: 18 subareas + zone perimeter; UI map 1443
+Feralas: 28 subareas + zone perimeter; UI map 1444
+Dustwallow Marsh: 21 subareas + zone perimeter; UI map 1445
+Tanaris: 22 subareas + zone perimeter; UI map 1446
+Azshara: 27 subareas + zone perimeter; UI map 1447
+Felwood: 15 subareas + zone perimeter; UI map 1448
+Un'Goro Crater: 11 subareas + zone perimeter; UI map 1449
+Moonglade: 4 subareas + zone perimeter; UI map 1450
+Silithus: 17 subareas + zone perimeter; UI map 1451
+Winterspring: 15 subareas + zone perimeter; UI map 1452
+Stormwind City: 2 subareas + zone perimeter; UI map 1453
+Orgrimmar: 0 subareas + zone perimeter; UI map 1454
+Thunder Bluff: 3 subareas + zone perimeter; UI map 1456
+Darnassus: 5 subareas + zone perimeter; UI map 1457
+Mount Hyjal: 9 subareas + zone perimeter; UI map 2482
+Zephras Isle: 22 subareas + zone perimeter; UI map 2521
+Riverglades: 16 subareas + zone perimeter; UI map 2548
+Shen'dralas: 6 subareas + zone perimeter; UI map 2652
+
+No geometry supplied (no outlines fabricated):
+Blackfathom Deeps
+Blackrock Spire
+Dire Maul
+Gnomeregan
+Ironforge
+Maraudon
+Onyxia's Lair
+Ragefire Chasm
+Stormwind Stockade
+Sunken Temple
+Uldaman
+Undercity
+Wailing Caverns

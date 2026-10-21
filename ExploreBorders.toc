@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Explore Borders
+## Notes: Experimental terrain boundaries across all maps supplied by the dataset.
+## Author: Explore Borders contributors
+## Version: 0.2.0
+## SavedVariables: ExploreBordersDB
+Data.lua
+Geometry.lua
+ExploreBorders.lua
